@@ -36,7 +36,7 @@
   //"workbench.editor.pinnedTabSizing": "normal",
   //"workbench.editor.wrapTabs":false,
   //----Theme----
-  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorTheme": "JellyFish",
   "workbench.colorCustomizations": {
     "[SynthWave '84]": {
       "editorIndentGuide.background": "#ddd2d29c",
